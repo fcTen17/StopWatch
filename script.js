@@ -69,8 +69,8 @@ class StopWatch extends React.Component {
         )
     }    
 }
-
 ReactDOM.render(
     <StopWatch />,
     document.getElementById('root')
 );
+
